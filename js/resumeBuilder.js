@@ -1,3 +1,1 @@
-/*
 $("#main").append([Wiliam Kenney]);
- */
